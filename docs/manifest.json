@@ -1,6 +1,6 @@
 {
-    "name": "coinscollection",
-    "short_name": "coinscollection",
+    "name": "coinscollectionweb",
+    "short_name": "coinscollectionweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
